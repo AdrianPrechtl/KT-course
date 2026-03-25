@@ -1,0 +1,85 @@
+Analyze the file:  c:\FH Joanneum_local\KT\KT-course\lab_suite\labs\01_04_Datenkompression\sidedata/sampletext.txt
+Total number of words:     96
+Number of different words: 75
+
+-------Table of words:-----------------------------------------
+                           eine | cnt=  5    p=0.052   H=4.263 bit/word   H_av=0.222 bit/word
+                          nicht | cnt=  4    p=0.042   H=4.585 bit/word   H_av=0.191 bit/word
+                            der | cnt=  3    p=0.031   H=5.000 bit/word   H_av=0.156 bit/word
+                            die | cnt=  3    p=0.031   H=5.000 bit/word   H_av=0.156 bit/word
+                           dass | cnt=  2    p=0.021   H=5.585 bit/word   H_av=0.116 bit/word
+                            nur | cnt=  2    p=0.021   H=5.585 bit/word   H_av=0.116 bit/word
+                        sondern | cnt=  2    p=0.021   H=5.585 bit/word   H_av=0.116 bit/word
+                           auch | cnt=  2    p=0.021   H=5.585 bit/word   H_av=0.116 bit/word
+                        Tonfall | cnt=  2    p=0.021   H=5.585 bit/word   H_av=0.116 bit/word
+                            und | cnt=  2    p=0.021   H=5.585 bit/word   H_av=0.116 bit/word
+                  Kommunikation | cnt=  2    p=0.021   H=5.585 bit/word   H_av=0.116 bit/word
+                            wie | cnt=  2    p=0.021   H=5.585 bit/word   H_av=0.116 bit/word
+                           wird | cnt=  2    p=0.021   H=5.585 bit/word   H_av=0.116 bit/word
+                           oder | cnt=  2    p=0.021   H=5.585 bit/word   H_av=0.116 bit/word
+                            Die | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                          fÃ¼nf | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                         Axiome | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                       umfassen | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                   verschiedene | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                        Aspekte | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                   menschlichen | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                    Interaktion | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                            Sie | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                         zeigen | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                   gesprochenen | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                          Worte | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                 KÃ¶rpersprache | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                        Kontext | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                       zentrale | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                          Rolle | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                        spielen | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                           Auch | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                Beziehungsebene | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                            auf | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                    stattfindet | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                    beeinflusst | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                    maÃŸgeblich | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                      Nachricht | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                   wahrgenommen | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                            ist | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                            ein | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                wechselseitiger | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                        Prozess | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                          durch | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                       bewusste | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                     unbewusste | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                        Signale | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                      gesteuert | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                         Selbst | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                           wenn | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                         Person | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                        spricht | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                        bewusst | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                       reagiert | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                         sendet | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                            sie | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                        dennoch | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                      Botschaft | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                            aus | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                           Dies | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                   verdeutlicht | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                  Ãœbermittlung | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                            von | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                  Informationen | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                            das | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                    gesprochene | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                           Wort | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                        umfasst | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                           eben | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                     nonverbale | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                       Elemente | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                          Mimik | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                         Gestik | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                  miteinbezogen | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+                           sind | cnt=  1    p=0.010   H=6.585 bit/word   H_av=0.069 bit/word
+-----------------------------------------------------------------
+
+Average Entropy H = 6.073 bit/word
+Total Entropy of 96 words H=583.037 bit (73 bytes)
+Size of text file: 743 bytes
