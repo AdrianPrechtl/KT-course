@@ -1,0 +1,65 @@
+{
+  "reference_freq_hz": 434000000.0,
+  "reference_power_dbm": -80.0,
+  "sample_rate_hz": 2048000.0,
+  "N": 4096,
+  "M": 32,
+  "gains": [
+    {
+      "gain_dB": 0,
+      "measured_peak_magnitude": 7.101247002099201,
+      "measured_peak_dB": 17.0267,
+      "calibration_offset_dB": -97.0267,
+      "calibration_factor_linear": 1.4e-05,
+      "peak_bin": 2048,
+      "peak_freq_hz": 0.0
+    },
+    {
+      "gain_dB": 10,
+      "measured_peak_magnitude": 6.781561948978153,
+      "measured_peak_dB": 16.6266,
+      "calibration_offset_dB": -96.6266,
+      "calibration_factor_linear": 1.5e-05,
+      "peak_bin": 2048,
+      "peak_freq_hz": 0.0
+    },
+    {
+      "gain_dB": 20,
+      "measured_peak_magnitude": 6.281333907062903,
+      "measured_peak_dB": 15.961,
+      "calibration_offset_dB": -95.961,
+      "calibration_factor_linear": 1.6e-05,
+      "peak_bin": 1881,
+      "peak_freq_hz": -83500.0
+    },
+    {
+      "gain_dB": 30,
+      "measured_peak_magnitude": 16.652078529009607,
+      "measured_peak_dB": 24.4294,
+      "calibration_offset_dB": -104.4294,
+      "calibration_factor_linear": 6e-06,
+      "peak_bin": 1881,
+      "peak_freq_hz": -83500.0
+    },
+    {
+      "gain_dB": 40,
+      "measured_peak_magnitude": 88.35975539767051,
+      "measured_peak_dB": 38.9251,
+      "calibration_offset_dB": -118.9251,
+      "calibration_factor_linear": 1e-06,
+      "peak_bin": 1881,
+      "peak_freq_hz": -83500.0
+    },
+    {
+      "gain_dB": 50,
+      "measured_peak_magnitude": 157.54903704938297,
+      "measured_peak_dB": 43.9483,
+      "calibration_offset_dB": -123.9483,
+      "calibration_factor_linear": 1e-06,
+      "peak_bin": 1881,
+      "peak_freq_hz": -83500.0
+    }
+  ],
+  "reference_peak_bin": 2048,
+  "reference_peak_freq_hz": 0.0
+}
